@@ -1,0 +1,7 @@
+[package]
+name = "rabbithole"
+version = "0.1.0"
+authors = ["Jonathan Turner <jonathan.d.turner@gmail.com>"]
+
+[dependencies]
+syn = {version = "0.13", features = ["full", "extra-traits"] }
